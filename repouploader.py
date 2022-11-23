@@ -66,7 +66,7 @@ async def create_session(proxy:ProxyCloud=None,username='fbdaniellee',password='
         for item in upload_data:
             try:
                 if item == input['name']:
-                    upload_data[item] = (None,input['value'])
+                    upload_data[item] = (find_all,input['value'])
             except:pass
     upload_data['name'] = (None,user)
     upload_data['mail'] = (None,mail)
