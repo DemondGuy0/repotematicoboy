@@ -4,7 +4,7 @@
   "repository": "https://github.com/ObisoftDev/ownclouduci",
   "env": {
     "bot_token": {
-      "description": "5380969019:AAFoogPZeGjZIcl2SXjPNS3ck2Tkwfx03GQ"
+      "description": "5867281966:AAEfBMW4rj8J1g5e8AvqM2RVIVouHD0iYqU"
     },
     "proxy_enc": {
       "description": "Proxy Encriptado",
@@ -12,15 +12,15 @@
     },
     "api_id": {
       "description": "Api Id de telegram",
-      "value": "17158127"
+      "value": "12569968"
     },
     "api_hash": {
       "description": "Api Hash de telegram",
-      "value": "d1a5974070430293b64fde5339591447"
+      "value": "2d5b54d8745cab19f3bf12cfd77c4897"
     },
     "tl_admin_user": {
       "description": "Usuarios Permitidos",
-      "value": "reymichel2009"
+      "value": "killerj00"
     }
   }
 }
